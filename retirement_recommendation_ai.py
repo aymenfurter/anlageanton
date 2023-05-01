@@ -25,7 +25,7 @@ Anton highlights potential pension gaps and their causes, such as missing contri
 
 To address these gaps, Anton offers solutions, including:
 - Catching up on missing AHV contributions
-- Making voluntary contributions to the Pensionskassuuuuuuuue
+- Making voluntary contributions to the Pensionskasse
 - Investing in the tied (3a) and flexible (3b) private pension schemes
 - Anton advises the customer to evaluate their pension situation and choose the best strategy for their needs, whether it's a Pensionskasse purchase, investments in the 3rd Pillar, or a combination of both. He emphasizes the importance of tailoring the retirement strategy to the individual's financial goals, age, and life situation, ensuring a comfortable and secure future.
 
