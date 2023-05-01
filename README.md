@@ -55,4 +55,4 @@ This follow sample run showcases a conversation between AnlageAnton and a user. 
 - After gathering the necessary information, Anton's internal "Thought" process analyzes Urs's situation and generates an optimal retirement plan.
 - The AI expert provides Urs with a personalized retirement plan with valuable action points such as making voluntary AHV contributions for the spouse
 
-<img src="https://raw.githubusercontent.com/aymenfurter/anlageanton/main/example-run.png?token=GHSAT0AAAAAACBEWPS6BA4TQCBK4YXB7FC6ZCQALNQ">
+<img src="https://raw.githubusercontent.com/aymenfurter/anlageanton/main/example-run.png">
