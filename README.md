@@ -5,7 +5,7 @@ AnlageAnton is an AI-based wealth management solution using GPT-4 to provide opt
 ## Features
 
 - Interview-style information retrieval (inspired by [SalesGPT](https://python.langchain.com/en/latest/use_cases/agents/sales_agent_with_context.html))
-- Retirement plan recommendations (based on a [Custom LLM Agent](https://python.langchain.com/en/latest/modules/agents/agents/custom_llm_chat_agent.html#)
+- Retirement plan recommendations (based on a [Custom LLM Agent](https://python.langchain.com/en/latest/modules/agents/agents/custom_llm_chat_agent.html#))
 - Integration with Azure Chat OpenAI
 
 ## Prerequisites
