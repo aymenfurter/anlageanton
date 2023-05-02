@@ -11,7 +11,7 @@ AnlageAnton is an AI-based wealth management solution using GPT-4 to provide opt
 ## Prerequisites
 
 - Python 3.8 or higher
-- Azure Chat OpenAI account
+- Azure subscription with Azure OpenAI deployment
 
 ## Installation
 
